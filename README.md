@@ -1,5 +1,5 @@
 # Hi there!
-[![Banner][banner-img]][banner-link]
+
 Join me on a journey where web applications, scripts and more come to life!
 
 <!-- Skills -->
