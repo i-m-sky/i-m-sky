@@ -90,7 +90,7 @@ Join me on a journey where web applications, scripts and more come to life!
 <!-- Contact -->
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-roldan-guerra/" target="_blank">
+  <a href="https://www.linkedin.com/in/i-m-sky/" target="_blank">
     <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="80"/>
   </a>  
 </p>  
