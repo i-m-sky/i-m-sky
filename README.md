@@ -14,8 +14,8 @@ Join me on a journey where web applications, scripts and more come to life!
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   </a> 
 
-    <a href="https://react.dev/" target="_blank">
-    <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"  />
+   <a href="https://react.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   </a> 
   <a href="https://www.mysql.com/" target="_blank">
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
