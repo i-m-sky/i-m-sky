@@ -4,12 +4,9 @@ Join me on a journey where web applications, scripts and more come to life!
 
 <!-- Skills -->
 <div>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  </a>  
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  </a> 
   <a href="https://www.mysql.com/" target="_blank">
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
@@ -31,9 +28,7 @@ Join me on a journey where web applications, scripts and more come to life!
   <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
   </a>
-  <a href="https://nodejs.org/en" target="_blank">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  </a> 
+
   <a href="https://threejs.org/" target="_blank">
       <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJs" />
   </a>
@@ -64,9 +59,7 @@ Join me on a journey where web applications, scripts and more come to life!
    <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GoogleCloud" />
-  </a>
+
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
@@ -76,18 +69,14 @@ Join me on a journey where web applications, scripts and more come to life!
   <a href="https://github.com/tmux/tmux/wiki" target="_blank">
     <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux" />
   </a>
-  <a href="https://hadoop.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
-  </a>
+
   <a href="https://www.vim.org/" target="_blank">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="VIM" />
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
-  <a href="https://neovim.io/" target="_blank">
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  </a> 
+
 </div>
 
 <!-- Stats -->
