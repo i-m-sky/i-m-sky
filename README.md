@@ -87,6 +87,8 @@ Join me on a journey where web applications, scripts and more come to life!
 </td>
 </tr></table>
 
+<a href="https://www.buymeacoffee.com/iamsky" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
 <!-- Contact -->
 <br/>
 <p align="center">
@@ -100,6 +102,6 @@ Join me on a journey where web applications, scripts and more come to life!
   <img src="https://komarev.com/ghpvc/?username=i-m-sky&style=flat-square&color=242424" alt="My stats">
 </p>
 
-<a href="https://www.buymeacoffee.com/iamsky" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
 
 
