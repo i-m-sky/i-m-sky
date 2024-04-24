@@ -72,16 +72,16 @@ Join me on a journey where web applications, scripts and more come to life!
   <td valign="center" width="50%">
   <div align="center">  
     <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&icon_color=CCCCCC&text_bold=false&hide_border=true&show_icons=true&card_width=50&line_height=26&theme=react&show_icons=true&hide_title=true&bg_color=0D1116">
-      <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=i-m-sky&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=i-m-sky&icon_color=CCCCCC&text_bold=false&hide_border=true&show_icons=true&card_width=50&line_height=26&theme=react&show_icons=true&hide_title=true&bg_color=0D1116">
+      <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=i-m-sky&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
     </picture>
 </div></td>
 <td valign="center" width="50%"><div align="center">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=uma-dev&theme=default&hide_border=true&date_format=j%20M[%20Y]&ring=4F94EF&currStreakLabel=24292e">
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=uma-dev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=0D1116"> 
-      <img alt="2" src="https://streak-stats.demolab.com/?user=uma-dev&theme=default&hide_border=true&date_format=j%20M[%20Y]&ring=4F94EF&currStreakLabel=24292e">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=i-m-sky&theme=default&hide_border=true&date_format=j%20M[%20Y]&ring=4F94EF&currStreakLabel=24292e">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=i-m-sky&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=0D1116"> 
+      <img alt="2" src="https://streak-stats.demolab.com/?user=i-m-sky&theme=default&hide_border=true&date_format=j%20M[%20Y]&ring=4F94EF&currStreakLabel=24292e">
   </picture>
   </div>
 </td>
@@ -97,6 +97,6 @@ Join me on a journey where web applications, scripts and more come to life!
 
 <!-- Profile views --> 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uma-dev&style=flat-square&color=242424" alt="My stats">
+  <img src="https://komarev.com/ghpvc/?username=i-m-sky&style=flat-square&color=242424" alt="My stats">
 </p>
 
