@@ -3,7 +3,7 @@
 Join me on a journey where web applications, scripts, and more come to life!
 
 ## About Me
-I am a passionate web developer with a love for building dynamic and interactive web applications. Currently, I’m diving deep into full-stack development using Node.js, React, and Python.
+I'm Akash Kumar, a full-stack developer skilled in JavaScript and Node.js. I focus on creating impactful applications and contribute to open-source projects..
 
 <!-- Skills -->
 <div>
