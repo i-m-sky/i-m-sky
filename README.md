@@ -3,7 +3,7 @@
 Join me on a journey where web applications, scripts, and more come to life!
 
 ## About Me
-I'm Akash Kumar, a full-stack developer skilled in JavaScript and Node.js. I focus on creating impactful applications and contribute to open-source projects..
+I'm Akash Kumar, a full-stack software developer and JavaScript enthusiastic.I actively contribute to open-source projects, collaborating with developers.
 
 <!-- Skills -->
 <div>
