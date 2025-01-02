@@ -83,4 +83,26 @@ A user-friendly online car booking platform allowing customers to easily reserve
   <td valign="center" width="50%">
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=i-m-sky&theme=default&hide_border=true&date_format=j%20M[%20Y]&ring=4F9
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=i-m-sky&theme=default&hide_border=true&date_format=j%20M[%20Y]&ring=4F94EF&currStreakLabel=24292e">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=i-m-sky&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=56BCD9&currStreakLabel=DFF0F5&sideNums=DFF0F5&background=0D1116"> 
+        <img alt="2" src="https://streak-stats.demolab.com/?user=i-m-sky&theme=default&hide_border=true&date_format=j%20M[%20Y]&ring=4F94EF&currStreakLabel=24292e">
+      </picture>
+    </div>
+  </td>
+</tr>
+</table>
+
+<a href="https://www.buymeacoffee.com/iamsky" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<!-- Contact -->
+<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/i-m-sky/" target="_blank">
+    <img src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jxei2w60yg7jddvl91vd8be9jfp42dtlurldkfc0&rid=giphy.gif&ct=s" width="80"/>
+  </a>
+</p>  
+
+<!-- Profile views --> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=i-m-sky&style=flat-square&color=242424" alt="My stats">
+</p>
