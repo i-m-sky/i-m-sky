@@ -102,6 +102,7 @@ Join me on a journey where web applications, scripts and more come to life!
   <img src="https://komarev.com/ghpvc/?username=i-m-sky&style=flat-square&color=242424" alt="My stats">
 </p>
 
+![Build Status](https://github.com/<username>/<repo>/workflows/<workflow_name>/badge.svg)
 
 
 
